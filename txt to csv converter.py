@@ -7,3 +7,5 @@ Xbox_one_sales = pd.read_csv("/Users/specky3512/GitHub/Project 1/Game sales file
 
 PS4_sales.to_csv("/Users/specky3512/GitHub/Project 1/Game sales files/PS4 Sales.csv", index=None)
 Xbox_one_sales.to_csv("/Users/specky3512/GitHub/Project 1/Game sales files/Xbox One Sales.csv", index=None)
+
+video_game = pd.read_csv("/Users/specky3512/GitHub/Project 1/Game sales files/Video_Games_Sales_as_at_22_Dec_2016.csv")
